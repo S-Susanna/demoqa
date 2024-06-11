@@ -10,9 +10,9 @@ class DemoQa(BasePage):
         super().__init__(driver, self.base_url)
 
         self.icon = WebElement (driver, '#app > header > a')
-        # self.get_text = WebElement(driver, text='[© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.]')
+        self.elem1 = WebElement(driver, '#app > footer > span')
         self.btn_elements = WebElement (driver, '#app > div > div > div.home-body > div > div:nth-child(1)')
-        # self.get_text = WebElement(driver, text='Please select an item from left to start practice.')
+        self.elem2 = WebElement(driver, '#app > div > div > div > div.col-12.mt-4.col-md-6')
 
 
     # def exist_icon(self):
