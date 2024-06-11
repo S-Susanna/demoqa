@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2dc4311-3b7c-4af4-8f41-33d65c8ba86f" name="Changes" comment="Second project">
-      <change afterPath="$PROJECT_DIR$/components/components.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/demoqa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/elements_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_go_to_page_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_check_text.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_check_icon_demoqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_check_icon_demoqa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717670263245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718042199622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718042199622</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
