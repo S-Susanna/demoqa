@@ -11,7 +11,7 @@ def test_accordion_click(browser):
     accordion_page = Accordion(browser)  # перейти на страницу https://demoqa.com/accordian
     accordion_page.visit()  # посетить страницу
     accordion_page.icon_check.click()#проверка на кликабельность элемента
-    time.sleep(3)# задержка времени для проверки
+    time.sleep(2)# задержка времени для проверки
     assert accordion_page.icon_check.visible()#проверка видимости элемента
     assert not accordion_page.Lorem_Ipsum_text.visible()#проверка на невидимость текста
 
