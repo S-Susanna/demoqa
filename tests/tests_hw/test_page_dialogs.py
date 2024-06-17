@@ -13,7 +13,6 @@ def test_navigation_modal(browser):
     modal_elements.visit()
 
     modal_elements.refresh()
-    browser.refresh()
     time.sleep(2)
     modal_elements.icon_click.click()
     time.sleep(2)

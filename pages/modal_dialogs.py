@@ -7,5 +7,5 @@ class ModalDialog(BasePage):
         self.base_url = 'https://demoqa.com/modal-dialogs'
         super().__init__(driver, self.base_url)
 
-        self.menu_list = WebElement(driver, '#app > div > div > div > div:nth-child(1) > div > div > div:nth-child(3) > div > ul')
+        self.menu_list = WebElement(driver, '#item-2')
         self.icon_click = WebElement(driver, '#app > header > a > img')
