@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/demoqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/demoqa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/elements_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/elements_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests_hw/test_check_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests_hw/test_check_text.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,18 +50,34 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_attribute.test_placeholder.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_icon_demoqa.test_check_icon.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_text.test_check_text.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_text.test_check_text.test_page_elements.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_text.test_check_text2.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_text.test_page_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_clear.test_clear.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_elements.test_find_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_form.test_login_form.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_form.test_state_and_city.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_form_validate.test_login_form_validate.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_navigation.test_check_navigation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_page_dialogs.test_modal_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_page_dialogs.test_navigation_modal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_seo.test_check_title_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_size.test_size.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_text_box.test_text_box_pg.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_visible.test_not_visible_btn_sidebar.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_visible_hw.test_accordion.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_visible_hw.test_accordion_click.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_visible_hw.test_visible_accordion_default.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_text_box.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.base_page.executor&quot;: &quot;Run&quot;,
     &quot;Python.demoqa.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dima2/PycharmProjects/demoqa&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dima2/PycharmProjects/demoqa&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -70,23 +85,23 @@
       <recent name="C:\Users\dima2\PycharmProjects\demoqa" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_check_text.test_check_text2">
-    <configuration name="Python tests for test_check_text.test_check_text" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_page_dialogs.test_modal_elements">
+    <configuration name="Python tests for test_login_form.test_state_and_city" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_check_text.test_check_text&quot;" />
+      <option name="_new_target" value="&quot;test_login_form.test_state_and_city&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_check_text.test_check_text2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_login_form_validate.test_login_form_validate" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,11 +112,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_check_text.test_check_text2&quot;" />
+      <option name="_new_target" value="&quot;test_login_form_validate.test_login_form_validate&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_check_text.test_page_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_page_dialogs.test_modal_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,11 +127,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_check_text.test_page_elements&quot;" />
+      <option name="_new_target" value="&quot;test_page_dialogs.test_modal_elements&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_visible_hw.test_accordion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_page_dialogs.test_navigation_modal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +142,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_visible_hw.test_accordion&quot;" />
+      <option name="_new_target" value="&quot;test_page_dialogs.test_navigation_modal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_visible_hw.test_visible_accordion_default" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_text_box.test_text_box_pg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,17 +157,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_visible_hw.test_visible_accordion_default&quot;" />
+      <option name="_new_target" value="&quot;test_text_box.test_text_box_pg&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_check_text.test_check_text2" />
-        <item itemvalue="Python tests.Python tests for test_check_text.test_check_text" />
-        <item itemvalue="Python tests.Python tests for test_check_text.test_page_elements" />
-        <item itemvalue="Python tests.Python tests for test_visible_hw.test_visible_accordion_default" />
-        <item itemvalue="Python tests.Python tests for test_visible_hw.test_accordion" />
+        <item itemvalue="Python tests.Python tests for test_page_dialogs.test_modal_elements" />
+        <item itemvalue="Python tests.Python tests for test_page_dialogs.test_navigation_modal" />
+        <item itemvalue="Python tests.Python tests for test_text_box.test_text_box_pg" />
+        <item itemvalue="Python tests.Python tests for test_login_form.test_state_and_city" />
+        <item itemvalue="Python tests.Python tests for test_login_form_validate.test_login_form_validate" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +227,55 @@
       <option name="project" value="LOCAL" />
       <updated>1718123884936</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718272839417</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718272839417</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718275349422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718275349422</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718275369296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718275369297</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718275433987</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718275433987</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718297595402</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718297595402</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718619119490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718619119490</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
