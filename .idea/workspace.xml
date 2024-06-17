@@ -85,7 +85,7 @@
       <recent name="C:\Users\dima2\PycharmProjects\demoqa" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_page_dialogs.test_modal_elements">
+  <component name="RunManager" selected="Python tests.Python tests for test_text_box.test_text_box_pg">
     <configuration name="Python tests for test_login_form.test_state_and_city" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_text_box.test_text_box_pg" />
+        <item itemvalue="Python tests.Python tests for test_login_form_validate.test_login_form_validate" />
+        <item itemvalue="Python tests.Python tests for test_login_form.test_state_and_city" />
         <item itemvalue="Python tests.Python tests for test_page_dialogs.test_modal_elements" />
         <item itemvalue="Python tests.Python tests for test_page_dialogs.test_navigation_modal" />
-        <item itemvalue="Python tests.Python tests for test_text_box.test_text_box_pg" />
-        <item itemvalue="Python tests.Python tests for test_login_form.test_state_and_city" />
-        <item itemvalue="Python tests.Python tests for test_login_form_validate.test_login_form_validate" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718619119490</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718621957874</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718621957874</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

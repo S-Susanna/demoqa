@@ -15,11 +15,7 @@ class DemoQa(BasePage):
         self.elem2 = WebElement(driver, '#app > div > div > div > div.col-12.mt-4.col-md-6')
 
 
-    # def exist_icon(self):
-    #     try:
-    #         self.icon.find_element()
-    #     except NoSuchFrameException:
-    #         return False
-    #     return True
+
+
 
 
