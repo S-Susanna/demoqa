@@ -1,4 +1,5 @@
 from pages.form_page import FormPage
+
 import time
 
 def test_login_form(browser):
@@ -24,12 +25,25 @@ def test_login_form(browser):
 def test_state_and_city(browser):
     form_page = FormPage(browser)
     form_page.visit()
-
-    form_page.btn_state.click_force()
     time.sleep(2)
-    form_page.btn_state_NCR.send_keys('NCR')
+
+    # form_page.btn_state.scroll_to_element()
+    # form_page.btn_state.click()
+    # form_page.btn_NCR.click()
     # time.sleep(2)
-    form_page.btn_city.click_force()
-    time.sleep(2)
-    form_page.btn_city.send_keys('Gurgaon')
+    # form_page.btn_city.click_force()
+    # time.sleep(2)
+    # form_page.btn_city.send_keys('Gurgaon')
 
+    # form_page.btn_state.click_force()
+    # form_page.btn_state.scroll_to_element()
+    # time.sleep(2)
+    # form_page.inp_state.send_keys('NCR')
+    # form_page.inp_state.send_keys(Keys.ENTER)
+    # time.sleep(2)
+
+    form_page.btn_state.scroll_to_element()
+    time.sleep(2)
+    form_page.inp_state.send_keys(Keys.PAGE_DOWN)
+    form_page.inp_state.send_keys(Keys.ENTER)
+    time.sleep(2)

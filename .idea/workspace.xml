@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2dc4311-3b7c-4af4-8f41-33d65c8ba86f" name="Changes" comment="Second project">
+      <change afterPath="$PROJECT_DIR$/pages/demoqa_webtables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/demoqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/demoqa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/elements_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/elements_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/components.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/form_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/form_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/modal_dialogs.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/modal_dialogs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/text_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/text_box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_seo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_seo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +56,24 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_alert.test_alert.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_alert.test_alert_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_alert.test_confirm.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_alert.test_prompt.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_attribute.test_placeholder.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_browser_tab.test_browser_tab.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_btn_add.test_btn_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_btn_add.test_koup_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_alert.test_check_alert.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_icon_demoqa.test_check_icon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_modal.test_check_base_url.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_modal.test_check_modal.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_text.test_check_text.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_text.test_check_text.test_page_elements.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_text.test_check_text2.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_check_text.test_page_elements.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_clear.test_clear.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_css.test_box_submit.executor&quot;: &quot;Debug&quot;,
     &quot;Python tests.Python tests for test_elements.test_find_elements.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_login_form.test_login_form.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_login_form.test_state_and_city.executor&quot;: &quot;Run&quot;,
@@ -65,12 +82,18 @@
     &quot;Python tests.Python tests for test_page_dialogs.test_modal_elements.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_page_dialogs.test_navigation_modal.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_seo.test_check_title_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_seo_meta.test_seo_meta.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_size.test_size.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_sort.test_browser_tab.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_sort.test_webtables.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_text_box.test_text_box_pg.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_visible.test_not_visible_btn_sidebar.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_visible_hw.test_accordion.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_visible_hw.test_accordion_click.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_visible_hw.test_visible_accordion_default.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_webtables.test_webtable.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_webtables.test_webtable_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_webtables.test_webtables.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_text_box.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.base_page.executor&quot;: &quot;Run&quot;,
     &quot;Python.demoqa.executor&quot;: &quot;Run&quot;,
@@ -84,9 +107,57 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dima2\PycharmProjects\demoqa" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dima2\PycharmProjects\demoqa\tests\tests_hw" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_text_box.test_text_box_pg">
-    <configuration name="Python tests for test_login_form.test_state_and_city" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_webtables.test_webtable_2">
+    <configuration name="Python tests for test_check_modal.test_check_base_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="demoqa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_check_modal.test_check_base_url&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_check_modal.test_check_modal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="demoqa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_check_modal.test_check_modal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_sort.test_webtables" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="demoqa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sort.test_webtables&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_webtables.test_webtable" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,77 +168,32 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login_form.test_state_and_city&quot;" />
+      <option name="_new_target" value="&quot;test_webtables.test_webtable&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_login_form_validate.test_login_form_validate" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_webtables.test_webtable_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login_form_validate.test_login_form_validate&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_page_dialogs.test_modal_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="demoqa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_page_dialogs.test_modal_elements&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_page_dialogs.test_navigation_modal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="demoqa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_page_dialogs.test_navigation_modal&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_text_box.test_text_box_pg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="demoqa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_text_box.test_text_box_pg&quot;" />
+      <option name="_new_target" value="&quot;test_webtables.test_webtable_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_text_box.test_text_box_pg" />
-        <item itemvalue="Python tests.Python tests for test_login_form_validate.test_login_form_validate" />
-        <item itemvalue="Python tests.Python tests for test_login_form.test_state_and_city" />
-        <item itemvalue="Python tests.Python tests for test_page_dialogs.test_modal_elements" />
-        <item itemvalue="Python tests.Python tests for test_page_dialogs.test_navigation_modal" />
+        <item itemvalue="Python tests.Python tests for test_webtables.test_webtable_2" />
+        <item itemvalue="Python tests.Python tests for test_webtables.test_webtable" />
+        <item itemvalue="Python tests.Python tests for test_sort.test_webtables" />
+        <item itemvalue="Python tests.Python tests for test_check_modal.test_check_modal" />
+        <item itemvalue="Python tests.Python tests for test_check_modal.test_check_base_url" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718621957874</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1718631729381</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718631729381</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

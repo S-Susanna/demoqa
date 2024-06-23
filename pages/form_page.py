@@ -19,8 +19,10 @@ class FormPage(BasePage):
         self.hobbies = WebElement(driver, '#hobbies-checkbox-1')
         self.current_address = WebElement(driver, '#currentAddress')
         self.was_validated = WebElement(driver, '#userForm')
-        self.btn_state = WebElement(driver, '#state > div')
-        self.btn_state_NCR = WebElement(driver, '#state > div > div.css-1hwfws3')
-        self.btn_city = WebElement(driver, '#city > div')
-        self.btn_city_Gurgaon = WebElement(driver, '#city > div > div.css-1hwfws3 > div.css-1uccc91-singleValue')
+        self.btn_state = WebElement(driver, '#state')
+        self.inp_state = WebElement(driver, '#react-select-3-input')
+        self.btn_NCR = WebElement(driver, "//*[contains(text(), 'NCR')]", 'xpath')
+        # self.btn_city = WebElement(driver, '#city > div')
+        # self.btn_city_Gurgaon = WebElement(driver, '#city > div > div.css-1hwfws3 > div.css-1uccc91-singleValue')
+
 

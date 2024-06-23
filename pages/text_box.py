@@ -13,3 +13,6 @@ class TextBox(BasePage):
         self.borden = WebElement(driver, '#app > div > div > div > div.col-12.mt-4.col-md-6 > div:nth-child(4)')
         self.name_borden = WebElement(driver, '#name')
         self.current_address_borden = WebElement(driver, 'p#currentAddress')
+
+
+        self.submit = WebElement(driver, '#submit')
