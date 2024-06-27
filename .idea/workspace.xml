@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2dc4311-3b7c-4af4-8f41-33d65c8ba86f" name="Changes" comment="Second project">
-      <change afterPath="$PROJECT_DIR$/pages/demoqa_webtables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/components.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/components.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/form_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/form_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/alerts.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alerts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/demoqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/demoqa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/demoqa_webtables.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/demoqa_webtables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/modal_dialogs.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/modal_dialogs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/text_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/text_box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_seo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_seo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/tests_hw/test_check_alert.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests_hw/test_check_alert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/tests_hw/test_check_modal.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests_hw/test_check_modal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/tests_hw/test_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests_hw/test_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
     &quot;Python tests.Python tests for test_check_text.test_page_elements.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_clear.test_clear.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_css.test_box_submit.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_decor.test_decor.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_elements.test_find_elements.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_login_form.test_login_form.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_login_form.test_state_and_city.executor&quot;: &quot;Run&quot;,
@@ -81,9 +82,11 @@
     &quot;Python tests.Python tests for test_navigation.test_check_navigation.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_page_dialogs.test_modal_elements.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_page_dialogs.test_navigation_modal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_progress_bar.test_progress_bar.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_seo.test_check_title_demo.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_seo_meta.test_seo_meta.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_size.test_size.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_slider.test_slider.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_sort.test_browser_tab.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_sort.test_webtables.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_text_box.test_text_box_pg.executor&quot;: &quot;Run&quot;,
@@ -94,6 +97,7 @@
     &quot;Python tests.Python tests for test_webtables.test_webtable.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_webtables.test_webtable_2.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_webtables.test_webtables.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_window_past.test_home_window.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_text_box.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.base_page.executor&quot;: &quot;Run&quot;,
     &quot;Python.demoqa.executor&quot;: &quot;Run&quot;,
@@ -111,34 +115,49 @@
       <recent name="C:\Users\dima2\PycharmProjects\demoqa\tests\tests_hw" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_webtables.test_webtable_2">
-    <configuration name="Python tests for test_check_modal.test_check_base_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_slider.test_slider">
+    <configuration name="Python tests for test_decor.test_decor" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_check_modal.test_check_base_url&quot;" />
+      <option name="_new_target" value="&quot;test_decor.test_decor&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_check_modal.test_check_modal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_progress_bar.test_progress_bar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_check_modal.test_check_modal&quot;" />
+      <option name="_new_target" value="&quot;test_progress_bar.test_progress_bar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_slider.test_slider" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="demoqa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_slider.test_slider&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -157,43 +176,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_webtables.test_webtable" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_window_past.test_home_window" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/tests_hw" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_webtables.test_webtable&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_webtables.test_webtable_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="demoqa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_webtables.test_webtable_2&quot;" />
+      <option name="_new_target" value="&quot;test_window_past.test_home_window&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_webtables.test_webtable_2" />
-        <item itemvalue="Python tests.Python tests for test_webtables.test_webtable" />
+        <item itemvalue="Python tests.Python tests for test_slider.test_slider" />
         <item itemvalue="Python tests.Python tests for test_sort.test_webtables" />
-        <item itemvalue="Python tests.Python tests for test_check_modal.test_check_modal" />
-        <item itemvalue="Python tests.Python tests for test_check_modal.test_check_base_url" />
+        <item itemvalue="Python tests.Python tests for test_decor.test_decor" />
+        <item itemvalue="Python tests.Python tests for test_progress_bar.test_progress_bar" />
+        <item itemvalue="Python tests.Python tests for test_window_past.test_home_window" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718631729381</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Second project">
+      <option name="closed" value="true" />
+      <created>1719151059544</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719151059544</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

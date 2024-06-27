@@ -17,7 +17,7 @@ def test_check_modal(browser):
     time.sleep(2)
     assert check_modal.small_modal.visible()
     assert check_modal.small_modal_content.get_text() == 'This is a small modal. It has very less content'
-    # assert check_modal.alert()
+    # assert check_modal.alert() -- непонятно, почему форма ругается и не видет alert. При том при visibe всё работает
     check_modal.small_modal_close.click()
     assert not check_modal.alert()
 

@@ -50,6 +50,7 @@ class WebElement:
         self.send_keys(Keys.DELETE)
 
 
+
     def get_dom_attribute(self, name: str):
         value = self.find_element().get_dom_attribute(name)
 
