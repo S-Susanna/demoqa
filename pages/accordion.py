@@ -7,7 +7,7 @@ class Accordion(BasePage):
     def __init__(self, driver):
         self.base_url = 'https://demoqa.com/accordian'
         super().__init__(driver, self.base_url)
-
+  
         self.icon = WebElement(driver, '#item-0 > span')
         self.Lorem_Ipsum_text = WebElement(driver, '#section1Content > p')
         self.icon_check = WebElement(driver, '#section1Heading')
